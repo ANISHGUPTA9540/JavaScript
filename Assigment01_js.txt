@@ -1,0 +1,51 @@
+1) Explain the use of JavaScript ( or What you can do using a JavaScript)?
+
+Ans) js= java script is a programing and scripting languages which help us to make webpage interactive with the user.
+
+uses= js help in making 
+      1)Mobile application
+      2)backend
+      3)desktop application
+      4)api
+      5)Blockchain
+      6)helip in making liberary and framework
+      7)ML
+      8)Type script
+      9)cloud,DSA
+      7)It implement dynamic option on webcontent.
+
+2) What is the difference between client-side and server-side?
+Ans) SERVER SIDE = It means that processing take place on the browser itself                                          
+     CLIENT SIDE = It means that processing take place on server side
+   
+   
+
+3) What is Nodejs?
+Ans) Nodejs is runtime enviourment for js. It help the user to run js code on system or server side insted on browser.
+
+4)Explain Scope in JavaScript?
+Ans) Scope determine the accessibility of variables. 
+     It has three type of scope in js
+      1)blosck scope
+      2)function scope
+      3)global scope
+
+5)JavaScript is asynchronous or synchronous?
+Ans) js is asynchronous.
+
+6)JavaScript is Single-threaded or Multi-threaded?
+Ans) js is Single-threaded.
+
+7)Explain DOM in your own word?
+Ans) DOM act as an interface between javascript,HTML and CSS.
+     Browser will construct DOM all HTML Tag will store in js object.
+HTML            ----------------->    DOM   --------------> JAVA Script
+Document        <-----------------          <--------------  Object
+
+
+
+
+
+
+
+
