@@ -1,0 +1,40 @@
+1) What is lexical structure?
+Ans) Elementary rule for languages specification is called as lexical structure.
+     These include....
+      1)Text
+      2)Comment 
+      3)Literals
+      4)Reserve word
+
+2)What is Unicode?
+Ans) The unicode is a unique number for a character or some symbol such as an accent mark or ligature.
+eg- U+0048,U+0065
+
+
+3) Explain all the keywords present in the JavaScript with examples?
+Ans) Keywords are...Break,Await,Class,Else,if,or,for,function,Null,var,true
+
+4)What are shorthand operators, explain with a suitable example?
+Ans) A shorthand operator is a shorter way to express something that is already available in the js.
+eg-  let x = 1;
+     let y = 2;
+     x = x + y;
+     console.log(x);
+
+With shorthand
+
+     let x = 1, 
+         y = 2;
+         x += y;
+         onsole.log(x);
+
+Othershort hand operator are...
+x = x + y    ->    x += y
+x = x - y    ->    x -= y
+x = x * y    ->    x *= y
+x = x / y    ->    x /= y
+x = x % y    ->    x %= y
+
+5)What is “use Strict” in JavaScript?
+"use strict"; Defines that JavaScript code should be executed in "strict mode".
+ It eliminates some JavaScript silent errors by changing them to throw errors
